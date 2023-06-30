@@ -1,0 +1,48 @@
+[
+
+    {
+        "id": 1,
+        "name": "John Smith",
+        "location": "NewYork",
+        "jobRole": "Software Engineer",
+        "experience": "5 years",
+        "skills": ["JavaScript", "Python", "React"]
+
+      },
+      {
+        "id": 2,
+        "name": "Jane Doe",
+        "location": "SanFrancisco",
+        "jobRole": "UX Designer",
+        "experience": "3 years",
+        "skills": ["UI/UX Design", "Adobe XD", "Prototyping"]
+
+      },
+      {
+        "id": 3,
+        "name": "Michael Johnson",
+        "location": "London",
+        "jobRole": "Data Scientist",
+        "experience": "7 years",
+        "skills": ["Python", "Machine Learning", "Data Analysis"]
+      
+      },
+      {
+        "id": 4,
+        "name": "Emily Brown",
+        "location": "Toronto",
+        "jobRole": "Marketing Manager",
+        "experience": "4 years",
+        "skills": ["Digital Marketing", "Social Media", "SEO"]
+
+      },
+      {
+        "id": 5,
+        "name": "David Wilson",
+        "location": "Sydney",
+        "jobRole": "Project Manager",
+        "experience": "6 years",
+        "skills": ["Agile Methodologies", "Scrum", "Team Management"]
+
+      }
+]
